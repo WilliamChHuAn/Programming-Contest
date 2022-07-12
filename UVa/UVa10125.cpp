@@ -21,14 +21,12 @@ int main(){
         bool flag = true;
         map<int, pair<int, int>> mp;
 
-        // [a + b] = d - c
         for(int a = 0; a < S; a++){
             for(int b = a + 1; b < S; b++){
                 mp[v[a] + v[b]] = make_pair(v[a], v[b]);
             }
         }
 
-        // a + b = [d - c]
         for(int d = S - 1; flag && d >= 0; d--){
             for(int c = 0; c < S; c++){
                 if(c != d){
