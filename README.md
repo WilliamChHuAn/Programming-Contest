@@ -18,6 +18,9 @@
 - ***UVa10125 Sumsets***
   - 枚舉、微數論(？)
   - $a + b = d - c$
+- ***UVa10167 Birthday Cake***
+  - 枚舉、數論
+  - [二元一次不等式及其圖形](https://youtu.be/amH8nzygUMU)
 - ***UVa10364 Square***
   - 枚舉、剪枝
 - ***UVa10405 Longest Common Subsequence***
