@@ -33,6 +33,8 @@
   - DP
 - ***UVa11503 Virtual Friends***
   - 並查集
+- ***UVa11624 Fire!***
+  - BFS
 - ***UVa11631 Dark Roads***
   - MST
 - ***UVa11747 Heavy Cycle Edges***
