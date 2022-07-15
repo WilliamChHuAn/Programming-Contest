@@ -4,7 +4,7 @@ using namespace std;
 int R, C;
 int Time[1005][1005];
 char maze[1005][1005];
-int dir[8][2] = { 1,  0,    // down
+int dir[4][2] = { 1,  0,    // down
                   0,  1,    // right
                  -1,  0,    // up
                   0, -1};   // left

@@ -13,6 +13,8 @@
   - [高一下數學2-2B例題03向右向上的走捷徑問題](https://www.junyiacademy.org/course-compare/math-high/math-10/permutations-and-combinations_a/permutations-combinations/v/K4HOmfgEK6A?v=K4HOmfgEK6A)
 - ***UVa00900 Brick Wall Patterns***
   - DP、費氏數列
+- ***UVa00929 Number Maze***
+  - Dijkstra 變形
 - ***UVa10098 Generating Fast***
   - 枚舉
 - ***UVa10125 Sumsets***
