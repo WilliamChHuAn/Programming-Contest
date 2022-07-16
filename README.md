@@ -6,6 +6,8 @@
 
 ### UVa
 
+- ***UVa00336 A Node Too Far***
+  - BFS
 - ***UVa00572 Oil Deposits***
   - DFS
 - ***UVa00825 Walking on the Safe Side***
