@@ -45,3 +45,8 @@
   - MST
 - ***UVa11953 Battleships***
   - DFS
+
+### ZeroJudge
+
+- ***e339 前綴和練習***
+  - 前綴和
