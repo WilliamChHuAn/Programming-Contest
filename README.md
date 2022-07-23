@@ -35,6 +35,8 @@
   - 並查集
 - ***UVa11078 Open Credit System***
   - DP
+- ***UVa11495 Bubbles and Buckets***
+  - 逆序數對、BIT
 - ***UVa11503 Virtual Friends***
   - 並查集
 - ***UVa11624 Fire!***
