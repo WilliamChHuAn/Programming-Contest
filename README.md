@@ -33,6 +33,8 @@
   - DP、LIS
 - ***UVa10608 Friends***
   - 並查集
+- ***UVa10810 Ultra-QuickSort***
+  - 逆序數對、分治 (合併排序 Merge Sort)
 - ***UVa11078 Open Credit System***
   - DP
 - ***UVa11495 Bubbles and Buckets***
