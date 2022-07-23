@@ -1,8 +1,6 @@
 #include <bits/stdc++.h>
 using namespace std;
 
-#define lowbit(k) (k & -k)
-
 int n;  // number of integer
 int a[1000001];
 int buf[1000001];
@@ -45,12 +43,8 @@ long long Inversion(int left, int right){
 
 int main(){
 
-    int ai;
-    int ans;
-
     while(cin >> n && n){
 
-        ans = 0;
         memset(a, 0, sizeof(a));
         memset(buf, 0, sizeof(buf));
 
@@ -58,7 +52,6 @@ int main(){
             cin >> a[i];
         }
 
-        // cout << "Output: ";
         cout << Inversion(0, n) << endl;
     }
 
